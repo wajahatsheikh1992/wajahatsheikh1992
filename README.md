@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wajahatsheikh1992" alt="wajahatsheikh1992" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I’m currently working on **JavaScript**
+- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
+- 👯 I’m looking to collaborate on **javascript**
+- 💬 Ask me about **HTML, CSS, BOOTSTRAP**
+- 📫 How to reach me **wajaha9t@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
